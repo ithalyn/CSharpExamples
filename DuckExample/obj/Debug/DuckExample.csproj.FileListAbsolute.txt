@@ -1,0 +1,6 @@
+C:\Users\alex.ross\Project\Training\Q2\DuckExample\bin\Debug\DuckExample.exe.config
+C:\Users\alex.ross\Project\Training\Q2\DuckExample\bin\Debug\DuckExample.exe
+C:\Users\alex.ross\Project\Training\Q2\DuckExample\bin\Debug\DuckExample.pdb
+C:\Users\alex.ross\Project\Training\Q2\DuckExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alex.ross\Project\Training\Q2\DuckExample\obj\Debug\DuckExample.exe
+C:\Users\alex.ross\Project\Training\Q2\DuckExample\obj\Debug\DuckExample.pdb

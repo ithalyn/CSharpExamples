@@ -1,0 +1,9 @@
+C:\Users\alex.ross\Project\Training\Q2\StringCalculator\bin\Debug\StringCalculator.exe.config
+C:\Users\alex.ross\Project\Training\Q2\StringCalculator\bin\Debug\StringCalculator.exe
+C:\Users\alex.ross\Project\Training\Q2\StringCalculator\bin\Debug\StringCalculator.pdb
+C:\Users\alex.ross\Project\Training\Q2\StringCalculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alex.ross\Project\Training\Q2\StringCalculator\obj\Debug\StringCalculator.exe
+C:\Users\alex.ross\Project\Training\Q2\StringCalculator\obj\Debug\StringCalculator.pdb
+C:\Users\alex.ross\Project\Training\Q2\Examples\StringCalculator\bin\Debug\StringCalculator.exe.config
+C:\Users\alex.ross\Project\Training\Q2\Examples\StringCalculator\obj\Debug\StringCalculator.exe
+C:\Users\alex.ross\Project\Training\Q2\Examples\StringCalculator\obj\Debug\StringCalculator.pdb
