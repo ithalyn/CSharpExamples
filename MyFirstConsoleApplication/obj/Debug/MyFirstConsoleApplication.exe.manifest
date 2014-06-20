@@ -3,7 +3,7 @@
   <asmv1:assemblyIdentity name="MyFirstConsoleApplication.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="MyFirstConsoleApplication" version="1.0.0.0" publicKeyToken="A572D2C81ED62EC7" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="MyFirstConsoleApplication" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
     <commandLine file="MyFirstConsoleApplication.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -43,13 +43,13 @@
   </dependency>
   <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MyFirstConsoleApplication.exe" size="5120">
-      <assemblyIdentity name="MyFirstConsoleApplication" version="1.0.0.0" publicKeyToken="A572D2C81ED62EC7" language="neutral" processorArchitecture="msil" />
+      <assemblyIdentity name="MyFirstConsoleApplication" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>IdK3NeJAdeLekstGvvexcU0VccAUw6lvHS46XsE61Fw=</dsig:DigestValue>
+        <dsig:DigestValue>wiqb78wKzCMlSuOWpBfi3WDPK+LiHddqyPBW50RR/bQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

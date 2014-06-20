@@ -8,3 +8,13 @@ C:\Users\alex.ross\Project\Training\Q2\MyFirstConsoleApplication\bin\Debug\MyFir
 C:\Users\alex.ross\Project\Training\Q2\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.application
 C:\Users\alex.ross\Project\Training\Q2\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.exe.manifest
 C:\Users\alex.ross\Project\Training\Q2\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.application
+C:\Users\alex.ross\Project\Training\Q2\Examples\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.exe.config
+C:\Users\alex.ross\Project\Training\Q2\Examples\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.exe.manifest
+C:\Users\alex.ross\Project\Training\Q2\Examples\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.application
+C:\Users\alex.ross\Project\Training\Q2\Examples\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.exe
+C:\Users\alex.ross\Project\Training\Q2\Examples\MyFirstConsoleApplication\bin\Debug\MyFirstConsoleApplication.pdb
+C:\Users\alex.ross\Project\Training\Q2\Examples\MyFirstConsoleApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alex.ross\Project\Training\Q2\Examples\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.exe.manifest
+C:\Users\alex.ross\Project\Training\Q2\Examples\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.application
+C:\Users\alex.ross\Project\Training\Q2\Examples\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.exe
+C:\Users\alex.ross\Project\Training\Q2\Examples\MyFirstConsoleApplication\obj\Debug\MyFirstConsoleApplication.pdb
