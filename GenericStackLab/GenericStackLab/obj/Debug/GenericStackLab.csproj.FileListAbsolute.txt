@@ -1,0 +1,6 @@
+C:\Users\alex.ross\Project\Training\Q2\GenericStackLab\GenericStackLab\bin\Debug\GenericStackLab.exe.config
+C:\Users\alex.ross\Project\Training\Q2\GenericStackLab\GenericStackLab\bin\Debug\GenericStackLab.exe
+C:\Users\alex.ross\Project\Training\Q2\GenericStackLab\GenericStackLab\bin\Debug\GenericStackLab.pdb
+C:\Users\alex.ross\Project\Training\Q2\GenericStackLab\GenericStackLab\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alex.ross\Project\Training\Q2\GenericStackLab\GenericStackLab\obj\Debug\GenericStackLab.exe
+C:\Users\alex.ross\Project\Training\Q2\GenericStackLab\GenericStackLab\obj\Debug\GenericStackLab.pdb

@@ -1,0 +1,5 @@
+C:\Users\alex.ross\Project\Training\Q2\GenericStackLab\GenericStack.Lib\bin\Debug\GenericStack.Lib.dll
+C:\Users\alex.ross\Project\Training\Q2\GenericStackLab\GenericStack.Lib\bin\Debug\GenericStack.Lib.pdb
+C:\Users\alex.ross\Project\Training\Q2\GenericStackLab\GenericStack.Lib\obj\Debug\GenericStack.Lib.dll
+C:\Users\alex.ross\Project\Training\Q2\GenericStackLab\GenericStack.Lib\obj\Debug\GenericStack.Lib.pdb
+C:\Users\alex.ross\Project\Training\Q2\GenericStackLab\GenericStack.Lib\obj\Debug\ResolveAssemblyReference.cache

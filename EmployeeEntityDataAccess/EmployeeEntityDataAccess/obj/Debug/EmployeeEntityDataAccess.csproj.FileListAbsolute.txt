@@ -1,0 +1,10 @@
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeeEntityDataAccess\bin\Debug\EmployeeEntityDataAccess.dll.config
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeeEntityDataAccess\bin\Debug\EmployeeEntityDataAccess.dll
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeeEntityDataAccess\bin\Debug\EmployeeEntityDataAccess.pdb
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeeEntityDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeeEntityDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeeEntityDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeeEntityDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeeEntityDataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeeEntityDataAccess\obj\Debug\EmployeeEntityDataAccess.dll
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeeEntityDataAccess\obj\Debug\EmployeeEntityDataAccess.pdb

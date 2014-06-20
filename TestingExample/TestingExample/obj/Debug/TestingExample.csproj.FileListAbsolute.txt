@@ -1,0 +1,5 @@
+C:\Users\alex.ross\Project\Training\Q2\TestingExample\TestingExample\bin\Debug\TestingExample.dll
+C:\Users\alex.ross\Project\Training\Q2\TestingExample\TestingExample\bin\Debug\TestingExample.pdb
+C:\Users\alex.ross\Project\Training\Q2\TestingExample\TestingExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alex.ross\Project\Training\Q2\TestingExample\TestingExample\obj\Debug\TestingExample.dll
+C:\Users\alex.ross\Project\Training\Q2\TestingExample\TestingExample\obj\Debug\TestingExample.pdb

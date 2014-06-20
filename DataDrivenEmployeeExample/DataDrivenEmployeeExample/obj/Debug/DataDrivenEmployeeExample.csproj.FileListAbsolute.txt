@@ -1,0 +1,8 @@
+C:\Users\alex.ross\Project\Training\Q2\DataDrivenEmployeeExample\DataDrivenEmployeeExample\bin\Debug\DataDrivenEmployeeExample.exe.config
+C:\Users\alex.ross\Project\Training\Q2\DataDrivenEmployeeExample\DataDrivenEmployeeExample\bin\Debug\DataDrivenEmployeeExample.exe
+C:\Users\alex.ross\Project\Training\Q2\DataDrivenEmployeeExample\DataDrivenEmployeeExample\bin\Debug\DataDrivenEmployeeExample.pdb
+C:\Users\alex.ross\Project\Training\Q2\DataDrivenEmployeeExample\DataDrivenEmployeeExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alex.ross\Project\Training\Q2\DataDrivenEmployeeExample\DataDrivenEmployeeExample\obj\Debug\DataDrivenEmployeeExample.Properties.Resources.resources
+C:\Users\alex.ross\Project\Training\Q2\DataDrivenEmployeeExample\DataDrivenEmployeeExample\obj\Debug\DataDrivenEmployeeExample.exe
+C:\Users\alex.ross\Project\Training\Q2\DataDrivenEmployeeExample\DataDrivenEmployeeExample\obj\Debug\DataDrivenEmployeeExample.pdb
+C:\Users\alex.ross\Project\Training\Q2\DataDrivenEmployeeExample\DataDrivenEmployeeExample\obj\Debug\DataDrivenEmployeeExample.ViewEmployees.resources

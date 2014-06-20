@@ -1,0 +1,11 @@
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeeDataAccessService\bin\EmployeeDataAccessService.dll
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeeDataAccessService\bin\EmployeeDataAccessService.pdb
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeeDataAccessService\bin\EmployeeEntityDataAccess.dll
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeeDataAccessService\bin\EntityFramework.dll
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeeDataAccessService\bin\EmployeeEntityDataAccess.pdb
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeeDataAccessService\bin\EntityFramework.xml
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeeDataAccessService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeeDataAccessService\obj\Debug\EmployeeDataAccessService.dll
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeeDataAccessService\obj\Debug\EmployeeDataAccessService.pdb
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeeDataAccessService\bin\EntityFramework.SqlServer.dll
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeeDataAccessService\bin\EntityFramework.SqlServer.xml

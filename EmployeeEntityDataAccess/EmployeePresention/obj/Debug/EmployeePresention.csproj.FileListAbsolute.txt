@@ -1,0 +1,14 @@
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeePresention\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeePresention\obj\Debug\EmployeePresention.Properties.Resources.resources
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeePresention\obj\Debug\EmployeePresention.ViewEmployee.resources
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeePresention\bin\Debug\EmployeePresention.exe.config
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeePresention\bin\Debug\EmployeePresention.exe
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeePresention\bin\Debug\EmployeePresention.pdb
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeePresention\obj\Debug\EmployeePresention.exe
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeePresention\obj\Debug\EmployeePresention.pdb
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeePresention\bin\Debug\EmployeeEntityDataAccess.dll
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeePresention\bin\Debug\EntityFramework.dll
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeePresention\bin\Debug\EmployeeEntityDataAccess.pdb
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeePresention\bin\Debug\EntityFramework.xml
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeePresention\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alex.ross\Project\Training\Q2\EmployeeEntityDataAccess\EmployeePresention\bin\Debug\EntityFramework.SqlServer.xml

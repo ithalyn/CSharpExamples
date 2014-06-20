@@ -1,0 +1,6 @@
+C:\Users\alex.ross\Project\Training\Q2\GenericStackLab\DelegateExample\bin\Debug\DelegateExample.exe.config
+C:\Users\alex.ross\Project\Training\Q2\GenericStackLab\DelegateExample\bin\Debug\DelegateExample.exe
+C:\Users\alex.ross\Project\Training\Q2\GenericStackLab\DelegateExample\bin\Debug\DelegateExample.pdb
+C:\Users\alex.ross\Project\Training\Q2\GenericStackLab\DelegateExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alex.ross\Project\Training\Q2\GenericStackLab\DelegateExample\obj\Debug\DelegateExample.exe
+C:\Users\alex.ross\Project\Training\Q2\GenericStackLab\DelegateExample\obj\Debug\DelegateExample.pdb

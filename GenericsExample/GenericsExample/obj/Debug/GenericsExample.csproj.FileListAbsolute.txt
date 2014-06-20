@@ -1,0 +1,6 @@
+C:\Users\alex.ross\Project\Training\Q2\GenericsExample\GenericsExample\bin\Debug\GenericsExample.exe.config
+C:\Users\alex.ross\Project\Training\Q2\GenericsExample\GenericsExample\bin\Debug\GenericsExample.exe
+C:\Users\alex.ross\Project\Training\Q2\GenericsExample\GenericsExample\bin\Debug\GenericsExample.pdb
+C:\Users\alex.ross\Project\Training\Q2\GenericsExample\GenericsExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alex.ross\Project\Training\Q2\GenericsExample\GenericsExample\obj\Debug\GenericsExample.exe
+C:\Users\alex.ross\Project\Training\Q2\GenericsExample\GenericsExample\obj\Debug\GenericsExample.pdb

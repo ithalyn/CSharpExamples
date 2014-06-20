@@ -1,0 +1,8 @@
+C:\Users\alex.ross\Project\Training\Q2\ExampleWinForm\ExampleWinForm\bin\Debug\ExampleWinForm.exe.config
+C:\Users\alex.ross\Project\Training\Q2\ExampleWinForm\ExampleWinForm\bin\Debug\ExampleWinForm.exe
+C:\Users\alex.ross\Project\Training\Q2\ExampleWinForm\ExampleWinForm\bin\Debug\ExampleWinForm.pdb
+C:\Users\alex.ross\Project\Training\Q2\ExampleWinForm\ExampleWinForm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alex.ross\Project\Training\Q2\ExampleWinForm\ExampleWinForm\obj\Debug\ExampleWinForm.Properties.Resources.resources
+C:\Users\alex.ross\Project\Training\Q2\ExampleWinForm\ExampleWinForm\obj\Debug\ExampleWinForm.exe
+C:\Users\alex.ross\Project\Training\Q2\ExampleWinForm\ExampleWinForm\obj\Debug\ExampleWinForm.pdb
+C:\Users\alex.ross\Project\Training\Q2\ExampleWinForm\ExampleWinForm\obj\Debug\ExampleWinForm.ViewEmployees.resources

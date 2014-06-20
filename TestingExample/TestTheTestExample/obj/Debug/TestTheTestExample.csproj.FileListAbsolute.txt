@@ -1,0 +1,9 @@
+C:\Users\alex.ross\Project\Training\Q2\TestingExample\TestTheTestExample\bin\Debug\TestTheTestExample.dll
+C:\Users\alex.ross\Project\Training\Q2\TestingExample\TestTheTestExample\bin\Debug\TestTheTestExample.pdb
+C:\Users\alex.ross\Project\Training\Q2\TestingExample\TestTheTestExample\bin\Debug\Telerik.JustMock.dll
+C:\Users\alex.ross\Project\Training\Q2\TestingExample\TestTheTestExample\bin\Debug\TestingExample.dll
+C:\Users\alex.ross\Project\Training\Q2\TestingExample\TestTheTestExample\bin\Debug\TestingExample.pdb
+C:\Users\alex.ross\Project\Training\Q2\TestingExample\TestTheTestExample\bin\Debug\Telerik.JustMock.xml
+C:\Users\alex.ross\Project\Training\Q2\TestingExample\TestTheTestExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alex.ross\Project\Training\Q2\TestingExample\TestTheTestExample\obj\Debug\TestTheTestExample.dll
+C:\Users\alex.ross\Project\Training\Q2\TestingExample\TestTheTestExample\obj\Debug\TestTheTestExample.pdb
